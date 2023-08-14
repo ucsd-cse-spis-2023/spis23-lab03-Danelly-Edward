@@ -1,3 +1,5 @@
+# This function will draw the letter E
+
 def draw_E(the_turtle):
 
   the_turtle.forward(100)
